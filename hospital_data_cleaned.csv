@@ -1,0 +1,81 @@
+division,section,nearest_gov_hospital,emergency_cases,resource_availability
+Acharapakkam,Town/Acharapakkam,Chengalpattu Govt. Medical College & Hospitals,Moderate,Adequate
+Acharapakkam,Elapakkam,Chengalpattu Govt. Medical College & Hospitals,Low,Critical
+Acharapakkam,Rural/Acharapakkam,Chengalpattu Govt. Medical College & Hospitals,High,Limited
+Acharapakkam,Orathy-I,Chengalpattu Govt. Medical  College & Hospitals,High,Adequate
+Acharapakkam,Orathy-II,Chengalpattu Govt. Medical  College & Hospitals,Low,Limited
+Acharapakkam,Thozhupedu,Chengalpattu Govt. Medical  College & Hospitals,High,Limited
+Acharapakkam,Melmaruvathur,Chengalpattu Govt. Medical College & Hospitals,High,Limited
+Acharapakkam,Chithamur,Chengalpattu Govt. Medical College & Hospitals,Low,Critical
+Acharapakkam,Nugumbal,Chengalpattu Govt. Medical College & Hospitals,High,Adequate
+Acharapakkam,Chunambedu,Chengalpattu Govt. Medical College & Hospitals,High,Adequate
+SRIPERUMBUDUR,SOUTH/SRIPERUMBUDU R,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram Sriperumbudur",High,Critical
+SRIPERUMBUDUR,SOUTH/SRIPERUMBUDU R,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Moderate,Limited
+SRIPERUMBUDUR,NORTH/SRIPERUMBUDU R,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Moderate,Adequate
+SRIPERUMBUDUR,IRUNGATTUKOTTAI,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Moderate,Critical
+SRIPERUMBUDUR,IRUNGATTUKOTTAI,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Low,Critical
+SRIPERUMBUDUR,NORTH/SUNGUVARCHA THRAM,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram Sriperumbudur",Moderate,Critical
+SRIPERUMBUDUR,MANNUR,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Low,Limited
+SRIPERUMBUDUR,ORAGADAM,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Low,Critical
+SRIPERUMBUDUR,SOUTH/SUNGUVARCHAT HRAM,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram Sriperumbudur",Moderate,Critical
+SRIPERUMBUDUR,SOUTH/SUNGUVARCHAT HRAM,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Moderate,Critical
+SRIPERUMBUDUR,SOUTH/SUNGUVARCHAT HRAM,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Moderate,Critical
+SRIPERUMBUDUR,SOUTH/SUNGUVARCHAT HRAM,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",High,Adequate
+SRIPERUMBUDUR,THANDALAM,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Moderate,Adequate
+SRIPERUMBUDUR,VALLAKOTTAI,Chengalpattu Govt. Medical  College & Hospitals,High,Critical
+SRIPERUMBUDUR,VALLAKOTTAI,Chengalpattu Govt. Medical  College & Hospitals,Low,Limited
+SRIPERUMBUDUR,VALLAKOTTAI,Chengalpattu Govt. Medical  College & Hospitals,High,Adequate
+SRIPERUMBUDUR,PILLAIPAKKAM,Chengalpattu Govt. Medical  College & Hospitals,Moderate,Critical
+SRIPERUMBUDUR,SIPCOT MAMBAKKAM,"Anna Medical Hospital, Rajiv gandhi nearest PN Chathram  Sriperumbudur",Low,Adequate
+Maraimalai Nagar,Sembakkam,Chengalpattu Govt. Medical College & Hospitals,Low,Adequate
+Maraimalai Nagar,Sembakkam,Chengalpattu Govt. Medical  College & Hospitals,Low,Limited
+Maraimalai Nagar,Thiruporur,Chengalpattu Govt. Medical  College & Hospitals,High,Critical
+Maraimalai Nagar,Alathur,Chengalpattu Govt. Medical  College & Hospitals,Moderate,Critical
+Maraimalai Nagar,W/Guduvanchery,Chengalpattu Govt. Medical College & Hospitals,Low,Limited
+Maraimalai Nagar,W/Urapakkam,Chengalpattu Govt. Medical College & Hospitals,Low,Limited
+Maraimalai Nagar,Karasangal,Chengalpattu Govt. Medical  College & Hospitals,Low,Critical
+Maraimalai Nagar,Padappai,Chengalpattu Govt. Medical  College & Hospitals,High,Critical
+Maraimalai Nagar,T/Guduvanchery,Chengalpattu Govt. Medical College & Hospitals,High,Limited
+Maraimalai Nagar,Kelambakkam,Chengalpattu Govt. Medical  College & Hospitals,Moderate,Adequate
+Maraimalai Nagar,Kovalam,Chengalpattu Govt. Medical  College & Hospitals,High,Adequate
+Maraimalai Nagar,Padur,Chengalpattu Govt. Medical College & Hospitals,Low,Limited
+Maraimalai Nagar,Kandigai,Chengalpattu Govt. Medical College & Hospitals,Moderate,Adequate
+Maraimalai Nagar,Maraimalai Nagar-I,Chengalpattu Govt. Medical  College & Hospitals,Low,Limited
+Maraimalai Nagar,Vandalur,Chengalpattu Govt. Medical College & Hospitals,Low,Adequate
+Maraimalai Nagar,Kolapakkam,Chengalpattu Govt. Medical College & Hospitals,High,Adequate
+Maraimalai Nagar,East/Guduvanchery,Chengalpattu Govt. Medical College & Hospitals,Moderate,Critical
+Maraimalai Nagar,Urapakkam,Chengalpattu Govt. Medical College & Hospitals,High,Critical
+Maraimalai Nagar,Mambakkam,Chengalpattu Govt. Medical  College & Hospitals,High,Adequate
+Maraimalai Nagar,Maraimalai Nagar-II,Chengalpattu Govt. Medical College & Hospitals,Moderate,Adequate
+Maraimalai Nagar,Kattankolathur,Govt.Hospital/ Tambaram,Low,Critical
+MADURANTHAGAM,AE/O&M/RURAL  KADUGUPATTU,Govt Hospitals Pavunjur,Low,Critical
+MADURANTHAGAM,JE/O&M/Cheyyur-I,Govt Hospitals at Cheyyur,Moderate,Critical
+MADURANTHAGAM,JE/O&M/T/Madurantakam,Govt Hospitals at Madurantakam,Low,Limited
+MADURANTHAGAM,JE/O&M/Koovathur,Chengalpattu Govt. Medical College &  Hospitals,Moderate,Adequate
+MADURANTHAGAM,JE/O&M/West/Madurantakam,Chengalpattu Govt. Medical College &  Hospitals,Moderate,Critical
+MADURANTHAGAM,JE/O&M/Kadapakkam,Govt Hospitals at Cheyyur,High,Adequate
+MADURANTHAGAM,JE/O&M/Z.Endathur,Govt Hospitals at Madurantakam,Moderate,Limited
+MADURANTHAGAM,JE/O&M/L.Endathur,Govt Hospitals at Madurantakam,High,Limited
+MADURANTHAGAM,JE/O&M/Karunguzhi,Chengalpattu Govt. Medical College &  Hospitals,Low,Critical
+Chengalpattu,AnnaNagar/Chengalpatt u,Chengalpattu Govt. Medical College & Hospitals,Low,Limited
+Chengalpattu,Town/Chengalpattu,Chengalpattu Govt. Medical College & Hospitals,Low,Adequate
+Chengalpattu,Chettipunniyam,Chengalpattu Govt. Medical  College & Hospitals,Low,Critical
+Chengalpattu,Singaperumal Koil,Chengalpattu Govt. Medical  College & Hospitals,High,Adequate
+Chengalpattu,Meyyur,Chengalpattu Govt. Medical  College & Hospitals,Low,Adequate
+Chengalpattu,Salavakkam,Chengalpattu Govt. Medical  College & Hospitals,Moderate,Limited
+Chengalpattu,Bukkathurai,Chengalpattu Govt. Medical  College & Hospitals,Moderate,Limited
+Chengalpattu,Town/Thirukalukundram,Chengalpattu Govt. Medical College & Hospitals,Moderate,Limited
+Chengalpattu,East/Thirukalukundram,Chengalpattu Govt. Medical College & Hospitals,High,Limited
+Chengalpattu,South/Thirukalukundram,Chengalpattu Govt. Medical College & Hospitals,Low,Limited
+Chengalpattu,Nerumbur,Chengalpattu Govt. Medical College & Hospitals,Low,Critical
+Chengalpattu,Nenmeli,Chengalpattu Govt. Medical College & Hospitals,Low,Adequate
+Chengalpattu,Rural/South/Chengalpattu,Chengalpattu Govt. Medical  College & Hospitals,High,Adequate
+Chengalpattu,Athur,Chengalpattu Govt. Medical College & Hospitals,Moderate,Adequate
+Chengalpattu,Anjur,Chengalpattu Govt. Medical College & Hospitals,Moderate,Adequate
+Chengalpattu,Manampathy,Chengalpattu Govt. Medical  College & Hospitals,Low,Limited
+Chengalpattu,Sadras,Chengalpattu Govt. Medical  College & Hospitals,Moderate,Adequate
+Chengalpattu,Mamallapuram,Chengalpattu Govt. Medical  College & Hospitals,Moderate,Critical
+Thirumazhisai,Pakkam,Govt.Hospital/ Thiruvallore,High,Critical
+Thirumazhisai,Thirumazhisai,Govt.Hospital/ Thiruvallore,High,Adequate
+Thirumazhisai,Sevvapet,Govt.Hospital/ Thiruvallore,High,Adequate
+Thirumazhisai,Rural/Thiruninravur,Govt.Hospital/ Thiruvallore,High,Critical
